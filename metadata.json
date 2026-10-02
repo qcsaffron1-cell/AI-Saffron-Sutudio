@@ -1,0 +1,6 @@
+{
+  "name": "Saffron Laboratories (S-Lab) - Cosmetic OEM Presentation & AI Narrator",
+  "description": "มัลติมีเดียพรีเซนเทชันและระบบเสียงบรรยาย AI (gemini-3.8-flash-tts) ของ แซฟฟรอน แลบบอราทอรี่ส์ โรงงานผลิตเครื่องสำอาง OEM ก่อตั้ง พ.ศ. 2544 มาตรฐาน อย.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
